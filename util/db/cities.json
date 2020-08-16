@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Amsterdam",
+    "description": "The Dutch capital’s main canals are lined by thousands of historic brick buildings, forming an aesthetic uniformity that house monuments, residential apartments, restaurants, trendy cafés, and even brothels. This is undoubtedly one of the most charming and trendy cities on the planet, a stunning a latticework of romantic bridges and canals, picturesque cobbled streets, strikingly elegant architecture, and bikes, lots of bikes.",
+    "country": "The Netherlands",
+    "population": "811000"
+  },
+  {
+    "name": "Hong Kong",
+    "description": "Without a doubt, Hong Kong, also dubbed the “Pearl of the Orient” has one of the most photographed and impressive city skylines in the world. The towering skyscrapers and futuristic buildings that are set against the lush mountain backdrop create a breathtaking, urban scenery that is unmatched in the world. Besides its skyline, Hong Kong is also known for its vibrant lifestyle, friendly people, a splendid harbor, loads of shopping and its wide range of restaurants and cuisines.",
+    "country": "China",
+    "population": "7061000"
+  },
+  {
+    "name": "Rio De Janeiro",
+    "description": "There’s a Brazilian saying that “God made the world in six days, the seventh he devoted to Rio”. Blessed with one of the most dramatic settings in the world, Rio never fails to impress its visitors. Anyone standing by the world-famous Corcovado statue or at the top of the Sugarloaf Mountain will experience one of the globe’s most exciting panoramas, as the deep blue of the Atlantic Ocean mixes with the bright white of the sandy beaches and the fresh green of the lush tropical vegetation. Yes, this is indeed “the marvelous city” as locals call it.",
+    "country": "Brazil",
+    "population": "6320000"
+  },
+  {
+    "name": "San Francisco",
+    "description": "Artsy, bohemian and stunningly beautiful, San Francisco’s gorgeous bay lends the feeling of a beach resort to this city of 43 hills. No other city in the USA and few in the world are as loved by its inhabitants as the Bay City. With an abundance of attractions, such as bell-ringing cable cars, spectacular bridges, infamous Alcatraz, the Ferry Building (a foodies paradise) and of course the sea lions at Pier 39, it’s best to explore this magnificent city on a bike.",
+    "country": "USA",
+    "population": "883305"
+  },
+  {
+    "name": "Vancouver",
+    "description": " Vancouver’s spectacular mountains, wildlife-filled waters (that orcas call their home) and lush rain forests (where bears roam freely) overwhelm the beauty of the city itself, where scenic glass skyscrapers reflect the views that surround them. Add to this the relaxed mentality of its super-friendly inhabitants and you are in for an awesome trip … as long as it is not raining.",
+    "country": "Canada",
+    "population": "675218"
+  },
+  {
+    "name": "Cape Town",
+    "description": "Blessed with some of the world’s most amazing beaches, jaw-droppingly beautiful mountains, rolling hills of vineyards, spectacular drives, and tons of trendy bars and fine dining restaurants to choose from, it is hard to imagine a more picture perfect city destination than South Africa’s Mother city (and frankly, you won’t find a better one). Combine this with some of the best accommodation and service on offer anywhere in the world and you are left with one of the hottest city destinations you will ever visit (and you will want to return again, and again). Watch below a clip with my impressions of Cape Town.",
+    "country": "Africa",
+    "population": "433638"
+  },
+  {
+    "name": "Paris",
+    "description": "Monumental squares, centuries-old churches, famous boulevards, the Seine and romantic bridges that cross it, magnificent palaces, and Montmartre’s cobblestone streets make Paris the most glamorous and elegant of all cities. The City of Light has not only inspired painters, sculptors, writers, poets and composers but also practically every major world capital, with every city claiming its own Champs-Elysèes. Cruise on the Seine or watch the world pass by from a café terrace or and it’s easy to understand why so many people fall in love with Paris.",
+    "country": "France",
+    "population": "2148000"
+  },
+  {
+    "name": "Rome",
+    "description": "Located on seven hills overlooking the Tiber River, Rome is a treasure-trove of ancient monuments, that are inspired by grand classical architecture and set among some of the world’s most beautiful squares and avenues. Of course, everyone visits the Eternal City for its famous landmarks and must see sights such as Vatican City with St Peter’s Basilica, the Colosseum with adjacent Roman Forum, and Piazza Novona with the nearby Trevi fountain. But don’t forget to visit the less known Trastevere district as well, filled with faded palazzi, picturesque streets, and lovely homes decorated with flower boxes.",
+    "country": "Italy",
+    "population": "2873000"
+  },
+  {
+    "name": "Prague",
+    "description": "The Czech capital is dubbed “the city of the thousand spires” because of its many historical monuments that have been beautifully preserved and date from practically every period in history. Prague’s most famous attraction are the bridges that cross the Vltava River, especially the amazingly elegant Charles Bridge, but the stunningly beautiful Old Town Square and Prague Castle are equally impressive. Add the cobblestone streets and atmospheric alleyways that zigzag through town, and you know that few other cities delight the senses as much as Prague.",
+    "country": "Czech Republic",
+    "population": "1309000"
+  },
+  {
+    "name": "New York",
+    "description": "New York, New York, if you can make it here, you can make it anywhere! The Big Apple represents the ultimate cosmopolitan destination and defines the urban lifestyle. Here, you can visit some of the world’s best museum collections, shop till you drop, attend world-class performances, and find yourself having to make tough choices when it comes to dining out. And while there’s no denying that New York City is expensive for visitors, there are lots of free things to do.",
+    "country": "USA",
+    "population": "8399000"
+  }
+]
